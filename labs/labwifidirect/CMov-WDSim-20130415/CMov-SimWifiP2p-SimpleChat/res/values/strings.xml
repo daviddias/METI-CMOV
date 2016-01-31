@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SimpleChatActivity!</string>
+    <string name="app_name">SimpleChat</string>
+    <string name="sendButton">Send</string>
+    <string name="connectButton">Connect</string>
+    <string name="port">45678</string>
+    
+    <string name="serviceButton">WiFi On</string>
+    <string name="cancelButton">WiFi Off</string>
+    <string name="pingButton">Wifi Discovery</string>
+
+</resources>
